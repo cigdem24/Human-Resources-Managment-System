@@ -1,0 +1,3 @@
+abstract sınıflar yapısal olarak bir farkı yoktur.
+bir sınıf bir sınıfı inherite edbilir.
+bir sınıf birden fazla sınıfı implemet edebilir.

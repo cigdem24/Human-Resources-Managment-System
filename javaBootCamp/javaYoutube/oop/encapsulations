@@ -1,0 +1,11 @@
+		// Encapsulation kapsülleme dediğimiz bir yöntemdir.
+		// Kullanıcıya herhangi bir alanı kullanmak için ksıtlamayı ön görür.
+		// public heryerden erişilebilir demek. Başka classlardan erişilebilir.
+		// c# da default private. javada default public
+		// private sadece tanımlandığı classta geçerlidir.
+		// Encasulation en önemli konusus getter ve settirdir.
+		// get -> read , oku , getir ->> bir değer döndürür.
+		// set -> yaz , set et ->> bir değeri ata.void tanımlanır
+		// Örneğin Product classında birde ürünün kodu olsun istiyoruz.Bunu program
+		// kendi atayacak o yüzden bu sadece
+		// get olur. Set edilemez ->> read only

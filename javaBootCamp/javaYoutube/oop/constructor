@@ -1,0 +1,8 @@
+Constructorlar yapıcı metodlardır.
+ Var olab  classı newlediğimizde devreye girerek çalışır.
+ Her classın kendi ismiyle boş bir constructor metodu vardır.
+
+Method overloading bir metodu farklı imza ile ezebilirsin demek.
+public void topla(int sayi,int sayi2)
+public void topla(int sayi,int sayi2,int sayi3)
+burda method overloading oldu.İsimler aynı ama parametreler farklı. 
